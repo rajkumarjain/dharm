@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Acharya Guruvar Vidhyasagar Ji,https://raw.githubusercontent.com/rajkumarjain/dharm/main/Assets/master/Projects/D3/Sanch_Chart/Acharya.jpg,Guru Sangh,http://example.com/employee/profile,Guruvar Sangh,"Acharya,tag1,Acharya,cto",false,Sant Shiromani,O-6066,,
+आचार्यश्री विद्यासागरजी,https://raw.githubusercontent.com/rajkumarjain/dharm/main/Assets/master/Projects/D3/Sanch_Chart/Acharya.jpg,Guru Sangh,http://example.com/employee/profile,Guruvar Sangh,"Acharya,tag1,Acharya,cto",false,Sant Shiromani,O-6066,,
 Davolio Nancy,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6067,O-6066,
  Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6068,O-6066,
  Leverling Janet,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,CTO ,O-6069,O-6066,
